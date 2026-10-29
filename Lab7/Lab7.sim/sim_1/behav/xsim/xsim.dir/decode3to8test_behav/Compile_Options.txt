@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "decode3to8test_behav" "xil_defaultlib.decode3to8test" "xil_defaultlib.glbl" -log "elaborate.log" 
